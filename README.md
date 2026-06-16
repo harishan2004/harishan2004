@@ -111,7 +111,7 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/harishan-mohan-872676271
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: https://harishan2004.github.io/Harishan-Portfolio/
 
 🐙 GitHub: https://github.com/Harishan2004
 
